@@ -7,3 +7,9 @@ The project aims to analyze environmental factors such as Sea Surface Temperatur
 The tools used in this project include Python, Google Colab, Scikit-learn, TensorFlow/Keras, XGBoost, and Weka. This thesis demonstrates how data-driven and AI-based approaches can be applied to real-world environmental problems, particularly in coral reef monitoring and protection.
 
 🎥 [Watch Me!](https://www.canva.com/design/DAGsqVCtCeQ/54kaEDunbAK-LTZbWPvEBQ/watch?utm_content=DAGsqVCtCeQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4f3473c871) 
+
+📊 [Dataset](https://www.bco-dmo.org/dataset/773466#data-files)
+
+🤝 Special Thanks: 
+- Project Supervisor: Siti Nur Kamaliah Kamarudin (For guidance through the year year project)
+- The Ocean Agency: Stephanie Tate (For providing clarifications regarding permission to use TOA photos) 
