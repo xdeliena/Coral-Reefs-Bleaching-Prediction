@@ -1,4 +1,4 @@
-🌊 Coral Reef Bleaching Prediction Using Machine Learning
+#🌊 Coral Reef Bleaching Prediction Using Machine Learning
 
 Hi! I’m Deliena Tasha Binti Abdul Rahim, and this repository contains my bachelor's degree final year thesis project focused on predicting coral reef bleaching using machine learning.
 
