@@ -13,4 +13,5 @@ The tools used in this project include Python, Google Colab, Scikit-learn, Tenso
 
 🤝 Special Thanks: 
 - Project Supervisor: Siti Nur Kamaliah Kamarudin (For guidance through the year year project)
-- The Ocean Agency: Stephanie Tate (For providing clarifications regarding permission to use TOA photos) 
+- The Ocean Agency: Stephanie Tate (For providing clarifications regarding permission to use TOA photos)
+- Researchers @ Biological and Chemical Oceanography Data Management Office (For providing excellent high quality public data) 
